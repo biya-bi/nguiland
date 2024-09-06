@@ -1,0 +1,12 @@
+[submodule "infra"]
+	path = infra
+	url = https://github.com/biya-bi/nguiland-infra.git
+[submodule "ostock"]
+	path = ostock
+	url = https://github.com/biya-bi/ostock.git
+[submodule "libs/lib-parent"]
+	path = libs/lib-parent
+	url = https://github.com/biya-bi/nguiland-lib-parent.git
+[submodule "libs/io-utils"]
+	path = libs/io-utils
+	url = https://github.com/biya-bi/nguiland-io-utils.git
