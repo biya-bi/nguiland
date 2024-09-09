@@ -13,3 +13,6 @@
 [submodule "microservices/config-service"]
 	path = microservices/config-service
 	url = https://github.com/biya-bi/nguiland-config-service.git
+[submodule "microservices/gateway-service"]
+	path = microservices/gateway-service
+	url = https://github.com/biya-bi/nguiland-gateway-service.git
