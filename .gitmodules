@@ -10,3 +10,6 @@
 [submodule "libs/io-utils"]
 	path = libs/io-utils
 	url = https://github.com/biya-bi/nguiland-io-utils.git
+[submodule "microservices/config-service"]
+	path = microservices/config-service
+	url = https://github.com/biya-bi/nguiland-config-service.git
